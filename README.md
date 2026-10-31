@@ -2,9 +2,9 @@
 
 Church related notes and materials.
 
-## Naming Conventions
+## File and Folder Naming Rules
 
-- Files and folders must be written in English.
-- No spaces are allowed in file or folder names.
-- Hyphens are allowed.
+- Names must be in English.
+- No spaces allowed in names.
+- Hyphens are allowed (e.g. `my-file-name.md`).
 - Underscores are not allowed.

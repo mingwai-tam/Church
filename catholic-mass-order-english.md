@@ -10,13 +10,11 @@
 
 ### Greeting
 
-**People:**
-
-(Make the Sign of the Cross)
-
+**Priest:**  
+(Make the Sign of the Cross)  
 In the name of the Father, and of the Son, and of the Holy Spirit.
 
-Amen.
+**People:** Amen.
 
 **Priest:** The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all.
 
@@ -56,27 +54,16 @@ to pray for me to the Lord our God.
 
 ### Kyrie
 
-**Priest and people together (or chanted):**
+**Priest (or cantor):** Lord, have mercy.  
+**People:** Lord, have mercy.
 
-Lord, have mercy.
+**Priest (or cantor):** Christ, have mercy.  
+**People:** Christ, have mercy.
 
-Lord, have mercy.
+**Priest (or cantor):** Lord, have mercy.  
+**People:** Lord, have mercy.
 
-Lord, have mercy.
-
-Christ, have mercy.
-
-Christ, have mercy.
-
-Christ, have mercy.
-
-Lord, have mercy.
-
-Lord, have mercy.
-
-Lord, have mercy.
-
-(Or in Greek: Kyrie, eleison / Christe, eleison / Kyrie, eleison)
+(Or in Greek: Kyrie, eleison / Christe, eleison / Kyrie, eleison, in the same alternating pattern.)
 
 ### Gloria
 
@@ -173,6 +160,8 @@ The Word of the Lord.
 ### Gospel
 
 (Priest or deacon proclaims / see the Missal)
+
+**Priest/Deacon:** The Gospel of the Lord.
 
 **People:** Praise to you, Lord Jesus Christ.
 
